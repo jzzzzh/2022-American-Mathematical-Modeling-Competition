@@ -1,0 +1,38 @@
+[1] Aviv Bergrnan.Peter Grassberger and Thomas P. Meyer.Forecasting Probabilities with Neural Networks.
+Nonlinear Modeling and Forecasting,SFl Studies in the Sciences of Complexity，Proc. Vol.I,Eds,M.Casdagli & S. Eubank，Addison-Wesley. 1992,305一316.
+[2] Biake LeBaron.Nonlinear Forecasts for the S&P Stock Index.Nonlinear Modeling and Forecasting , SFl
+Studies in the Sciences of Complexity，Proc.Vol.  Eds.M. Casdagli& S.Eubank.Addison-Wesley ,1992:381-393.
+[3] Kamijo K,Taniyama T. Stock Price Pattern Recognition——A Current Neural Network Approach.IJC-NN,1992,(1).
+[4] Deboeok G..Nonlinear DynamicAnalysis Techniques for Preprocessing of Data for Neural Nets.Advanced
+Technology for Developers，1992.169).
+[5] Engle，R．Autoregressive and conditional heteroskedasticity with estimates of the variance of
+U．K．inflation．Econometrica，1982．50：987—1008
+[6] Engle，R．E and V．K．Ng，“Measuring and Testing impact of news on volatility．Journal of
+Finance 1993，48：1749—1778
+[7] Ray,Y,Chou．Forecasting financial function volatilities with extreme values：the conditional
+autoregressive range(CARR)model．Journal of money，credit and banking，2005，37，561—582
+[8] Engle，Robert. Autoregressive conditional heteroskedasticity withestimates of the variance of U. K[J]. Econometrica，1982 (50):987- 1008.
+[9] Engle，RUSSELL J. Autoregressive conditional duration: a new model for irregular spaced transaction data [J]. Econometrica，1998 (66):1127 -1162.
+[10] Bollerslev,Tim. Generalized autoregressive conditional heteroskdasticity [J]. Journal of Economics，1986(31):307 -327.
+[11] Engle R F.Autoregressive conditiona1 heteroskedasticity with estimatesof the variance of U.K. inflation[J].Econometrica, 1982(50):987-1008
+[12] Bollerslev T.Ageneralizedautoregressiveconditionalheteroskedasticity [J.Journal of econometrics, 1986(31):307-327
+[13] Engle R F. Lilien.Robins R P.Estimating time varying risk premia in theterm structure: The ARCH-M mode1[J].Econometrica, 1987(55):391-407
+[14] Nelson，D.B.Conditional Heteroskedasticity in Asset Returns: A NewApproach[J].Econometrica, 1991(59):347-370
+[15] Ding Zhuanxin. Granger C w J. Engle R F.A long memory property of stockmarket returns and a new model[JJ.Journal of Empirical Finance, 1993(1):83-106
+[16] Duan Jin-Chun. Augmented GARCH(p, q)processandits. diffusionlimit[J].Journal of Econometrics, 1997(79):97-127
+[17] Baillie R T. Bo1lerslev T. Mikkelsen H. Fractional integratedgeneralizedautoregressive conditional heteroskedasticity[J].Journal ofEconometrics, 1996(74):3-30
+[18] Chiang，Thomas C and Doong,Shuh-Chyi.Empirical Analysis of StockReturns and Volatilities: Evidence from Seven Asian Stock Markets Based onTAR-GARCH Mode1[J].ReviewofQuantitative Finance and Accounting,2001(17):301-318
+[19] Crouhy H. and M. Rockinger.Volatility Clustering,Asymmetric andHysteresis in Stock Returns: International Evidence[J].Financial Engineeringand the Japanese Markets,1997(4):1-35
+[20] Bodurtha,James N. and Ne1son C.Mark. Testing the CAPM with time varyingrisks and returns[J].Journal of Finance,1991(46):1485-1505
+[21] ENGLE R T,MUSTAFA C. Implied ARCH models from options priceLJ].Journalof Econometrics, 1992(52):289-311
+[22] French K R.，G W. Schwert and R. Stambaugh.Expected stock returns andvolatility[J.Journal of Financial Economics, 1987(19):3-29
+[23] Glosten L.R.，R. Jagannathan and D. Runkle. 0n the Relation Betweenthe Expected Vaiue and the Volatility of the Nominal Excess Return onStocks[J].Journal of Finance, 1993(48):1779-1801
+[24] Engle，R.F. and V.K. Ng.Measuring and Testing the Impact of Newson VolatilityEJ].Journal of Finance, 1993(48):1749-1778
+[25] Fabio,F. and Mele,A.Signand Volatility-Switching ARCHModels:Theory and Applications to International Stock Markets[J].Journalof Applied Econometrics,1997(12):49-56
+[26] Schumann M. , Lohrbach T.，Comparing Artifieial Neural Networks withStatistica1 Methods within the Field of Stock Market Prediction[C].Proceedings of the26thHawaii International Conference on System Science,1993: 597~606
+[27] Corchado J.,Fyfe C., Lees B. Unsupervised Learning for FinancialForecasting[C]. Proceedings of the IEEE/IAFE/INFORMs 1998 Conference onComputational Intelligence for Financia1 Engineering,1998:259~263
+[28] Julong Deng.Gray Ctrole.System.Huazhong Insitute of Tech Press.1985
+[29] Julong Deng.Basic Method of Gray System.Huazhong Institute of Tech Press.1987
+[30] Sifeng Liu. Theory and Application of Gray System Science Press.1999.
+[31] Jun-Bin Huang, Jin Yin, Zu-De Zhou, Ding-Fang Chen."Stock share analysis based on Gray
+System Relevance Theory."Proceedings of the First International Conference on MachineLearning and Cybemetics,Beijing,4-5 November 2002.
